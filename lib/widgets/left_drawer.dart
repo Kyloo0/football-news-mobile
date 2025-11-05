@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:football_news/screens/menu.dart';
 import 'package:football_news/screens/newlist_form.dart';
-import 'package:football_news/widgets/news_card.dart%20';
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});
