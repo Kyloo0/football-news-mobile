@@ -28,7 +28,7 @@ class NewsDetailPage extends StatelessWidget {
             // Thumbnail image
             if (news.thumbnail.isNotEmpty)
               Image.network(
-                'http://fitto-fadhelli-footballnews.pbp.cs.ui.ac.id/proxy-image/?url=${Uri.encodeComponent(news.thumbnail)}',
+                'https://fitto-fadhelli-footballnews.pbp.cs.ui.ac.id/proxy-image/?url=${Uri.encodeComponent(news.thumbnail)}',
                 width: double.infinity,
                 height: 250,
                 fit: BoxFit.cover,
