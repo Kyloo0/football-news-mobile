@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:football_news/screens/login.dart';
 import 'package:football_news/screens/newlist_form.dart';
 import 'package:football_news/screens/news_entry_list.dart';
-import 'dart:convert';
 import 'package:provider/provider.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
-import 'package:football_news/screens/menu.dart';
 
 class ItemHomepage {
  final String name;
