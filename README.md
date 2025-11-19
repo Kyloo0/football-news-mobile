@@ -1,4 +1,4 @@
-# Nama Aplikasi Kamu
+# Football News
 
 [![Build Status](https://app.bitrise.io/app/f130440b-ce79-46f9-8518-f57b398c6e86/status.svg?token=tRQFk8M-_x4JN9ndT_4Fag&branch=main)](https://app.bitrise.io/app/f130440b-ce79-46f9-8518-f57b398c6e86)
 
